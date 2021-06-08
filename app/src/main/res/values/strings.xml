@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoDynamicListViewColourList</string>
+    <string name="btn1">ADD \nCOLOUR</string>
+    <string name="btn2">REMOVE \nCOLOUR</string>
+    <string name="btn3">UPDATE \nCOLOUR</string>
+</resources>
